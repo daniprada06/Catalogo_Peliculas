@@ -1,3 +1,3 @@
-CATÁLOGO DE PELICULAS
+Catálogo De Películas
 
 Creado por: Daniela Prada Gómez
